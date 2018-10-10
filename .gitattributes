@@ -1,2 +1,2 @@
-*.C linguist-language=R
-*.H linguist-language=R
+*.html linguist-language=R
+*.rb linguist-language=R
